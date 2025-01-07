@@ -1,2 +1,2 @@
 ## nextjs-dashboard
-NextJS example dashboard app
+NextJS example dashboard app.
